@@ -1,8 +1,20 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
+Check out the live version of the project [here](https://fist-assigment.vercel.app/).
 
-Currently, two official plugins are available:
+## Project Description
+Provide a brief description of your project here. Explain the purpose, features, and any key functionalities that it offers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+This project is built with the following technologies:
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **JavaScript**: The programming language used for adding interactivity and dynamic behavior.
+
+
+
+
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
